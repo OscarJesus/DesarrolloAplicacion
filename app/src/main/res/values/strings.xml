@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DesarrolloAplicacion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="input_nacimiento">Fecha de Nacimiento</string>
+    <string name="input_telefono">Telefono</string>
+    <string name="input_correo">Correo</string>
+    <string name="input_descripcion">Descripción</string>
+    <string name="button_siguiente">Siguiente</string>
+
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="confirmar_nacimiento">Fecha de Nacimiento: </string>
+    <string name="confirmar_telefono">Tel: </string>
+    <string name="confirmar_correo">Correo: </string>
+    <string name="confirmar_descripcion">Descripción: </string>
+    <string name="button_editar">Editar Datos</string>
+
+</resources>
